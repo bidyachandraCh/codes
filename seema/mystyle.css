@@ -1,0 +1,13 @@
+.account
+{
+	width: 300px;
+}
+
+.accountedit
+{
+	width: 300px;
+	position: absolute;
+	z-index:100px;
+	right: -300px;
+	top:30px;
+}
