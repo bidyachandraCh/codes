@@ -11,6 +11,8 @@
 					<option>BCA</option>
 					<option>DCA</option>
 					<option>MCA</option>
+					<option>BTech</option>
+					<option>MTech</option>
 				</select><br>
 		HOUSE:	<input type='radio' name='house' value='GREEN'>GREEN
 				<input type='radio' name='house' value='RED'>RED
